@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#run with wget -qO - https://raw.githubusercontent.com/MachoDrone/PslssSd/edit/main/psswrdlsssd.sh | sudo bash
+#run with wget -qO - https://raw.githubusercontent.com/MachoDrone/PslssSd/main/psswrdlsssd.sh | sudo bash
 # no reboot required
 
 # sudoers entry
