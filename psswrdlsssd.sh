@@ -4,7 +4,7 @@
 # no reboot required
 
 # sudoers entry
-sudoers_entry="$USER ALL=(ALL) NOPASSWD:ALL"
+sudoers_entry="$SUDO_USER ALL=(ALL) NOPASSWD:ALL"
 
 # add the entry to sudoers using a temp file
 temp_file=$(mktemp)
